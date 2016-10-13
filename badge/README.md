@@ -1,5 +1,5 @@
 ![](https://github.com/opentracing/contrib/blob/OT-badge/badge/OpenTracing-enabled-blue.svg)
 
-Once you instrument your code or project to be enabled for OpenTracing, you can add this badge to your project repo by adding the following code to your `README.md`
+Once you instrument your code or project to be enabled for OpenTracing, you can add this badge to your project repo by adding the following code to your `README.md`:
 
-`![](https://www.github.com/opentracing/contrib/OpenTracing-enabled-blue.svg)`
+`![](https://github.com/opentracing/contrib/blob/OT-badge/badge/OpenTracing-enabled-blue.svg)`

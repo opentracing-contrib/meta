@@ -2,7 +2,7 @@
 
 ## Existing contributions
 
-Some (but not all) OpenTracing instrumentation can be found in [the OpenTracing-contrib github organization](https://github.com/opentracing-contrib).
+Some (but not all) contributed OpenTracing instrumentation can be found in [the OpenTracing-contrib github organization](https://github.com/opentracing-contrib).
 
 ## New contributions
 

@@ -1,8 +1,14 @@
 # Code
 
-OpenTracing needs your help to proliferate. We’ve already had contributors instrument OSS projects, build tracing systems, and work on the API. If you are interested in getting involved, please drop us a note at [hello@opentracing.com](mailto:hello@opentracing.com) and we will work with you to come up with a useful proposal.
+## Existing contributions
 
-At the moment, the following instrumentations would really help OpenTracing:
+Some (but not all) OpenTracing instrumentation can be found in [the OpenTracing-contrib github organization](https://github.com/opentracing-contrib).
+
+## New contributions
+
+OpenTracing needs your help to proliferate. We’ve already had contributors instrument OSS projects, build tracing systems, and work on the API. If you are interested in getting involved, please drop us a note at [hello@opentracing.com](mailto:hello@opentracing.com) or say hellon on [Gitter](https://gitter.im/opentracing/public) and we will work with you to come up with a useful proposal.
+
+The following are all on the OpenTracing instrumentation short-list:
 
 - [ ] AWS client libs
 - [ ] express
@@ -22,29 +28,29 @@ At the moment, the following instrumentations would really help OpenTracing:
 
 # Conference Speaking Opportunities
 
-We are planning to apply to speak at the following conferences as OpenTracing. Would love to collaborate with anyone who is interested please drop us a note at [hello@opentracing.com](mailto:hello@opentracing.com). Specifically we are looking for:
+We like to spread the word about OpenTracing at conferences. We're always excited to collaborate with anyone who'd like to help out. If that sounds like you, please drop us a note at [hello@opentracing.com](mailto:hello@opentracing.com). Specifically we are looking for:
 
 1. Co-presenting opportunities around OpenTracing
 2. Advice if you have spoken at these events or are involved with the committee
-3. Advice on being on the committee for any of these events
-4. Suggestions for any other events we should apply to speak at:
+3. Suggestions for any other events we should apply to speak at:
 
+We are particularly interested in the following events:
 
-- [ ] OSCON
-- [ ] Monitorama USA
-- [ ] Signal
-- [ ] Strange Loop
-- [ ] Surge
-- [ ] GitHub Universe
-- [ ] Go To
-- [ ] Velocity
-- [ ] SREcon
-- [ ] DockerCon
-- [ ] CoreOS Fest
-- [ ] Fluent
-- [ ] Gluecon
-- [ ] Mesoscon
-- [ ] PyCon
-- [x] Kubecon (@bensigleman)
-- [ ] Developer Week
-- [ ] Cloud Foundry Summit
+- OSCON
+- Monitorama USA
+- Signal
+- Strange Loop
+- Surge
+- GitHub Universe
+- Go To
+- Velocity
+- SREcon
+- DockerCon
+- CoreOS Fest
+- Fluent
+- Gluecon
+- Mesoscon
+- PyCon
+- Kubecon
+- Developer Week
+- Cloud Foundry Summit

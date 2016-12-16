@@ -2,11 +2,13 @@
 
 ## Existing contributions
 
-Some (but not all) contributed OpenTracing instrumentation can be found in [the OpenTracing-contrib github organization](https://github.com/opentracing-contrib).
+Many (but not all) contributed OpenTracing instrumentation can be found under the [the OpenTracing-contrib github organization](https://github.com/opentracing-contrib).
+
+Other contributions are included directly/implicitly in the codebase being instrumented, or sometimes in a contrib or ecosystem for said instrumented project.
 
 ## New contributions
 
-OpenTracing needs your help to proliferate. We’ve already had contributors instrument OSS projects, build tracing systems, and work on the API. If you are interested in getting involved, please drop us a note at [hello@opentracing.com](mailto:hello@opentracing.com) or say hellon on [Gitter](https://gitter.im/opentracing/public) and we will work with you to come up with a useful proposal.
+OpenTracing needs your help to proliferate. We’ve already had contributors instrument OSS projects, build tracing systems, and work on the API. If you are interested in getting involved, please drop us a note at [hello@opentracing.com](mailto:hello@opentracing.com) or say hello on [Gitter](https://gitter.im/opentracing/public) and we will work with you to come up with a useful proposal.
 
 The following are all on the OpenTracing instrumentation short-list:
 
@@ -30,7 +32,7 @@ The following are all on the OpenTracing instrumentation short-list:
 
 We like to spread the word about OpenTracing at conferences. We're always excited to collaborate with anyone who'd like to help out. If that sounds like you, please drop us a note at [hello@opentracing.com](mailto:hello@opentracing.com). Specifically we are looking for:
 
-1. Co-presenting opportunities around OpenTracing
+1. Co-presenting opportunities around OpenTracing, including workshops like the ones we've run at Kubecon/OSCON/etc
 2. Advice if you have spoken at these events or are involved with the committee
 3. Suggestions for any other events we should apply to speak at:
 
@@ -51,6 +53,6 @@ We are particularly interested in the following events:
 - Gluecon
 - Mesoscon
 - PyCon
-- Kubecon
+- Kubecon / CloudNativeCon
 - Developer Week
 - Cloud Foundry Summit

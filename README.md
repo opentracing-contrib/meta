@@ -6,7 +6,7 @@ Many (but not all) contributed OpenTracing instrumentation can be found under th
 
 Other contributions are included directly/implicitly in the codebase being instrumented, or sometimes in a contrib or ecosystem for said instrumented project.
 
-### Known third-party contributions
+### Incomplete list of third-party contributions
 
 This is by no means an exhaustive list, but what follows is an incomplete list of third-party OpenTracing integrations.
 

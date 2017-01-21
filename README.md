@@ -34,6 +34,9 @@ The following are all on the OpenTracing instrumentation short-list:
 - [ ] Elasticsearch
 - [x] [Finagle](https://github.com/twitter/finagle/pull/520#issuecomment-249959538)... almost :confused: 
 - [ ] MySQL / mariadb
+- [x] [motan](https://github.com/weibocom/motan/tree/master/motan-extension/filter-extension/filter-opentracing)
+- [ ] hprose:
+  - [x] [Java](https://github.com/opentracing-contrib/java-hprose)...almost, wait for release.
 
 # Conference Speaking Opportunities
 

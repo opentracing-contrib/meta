@@ -36,7 +36,24 @@ The following are all on the OpenTracing instrumentation short-list:
 - [ ] MySQL / mariadb
 - [x] [motan](https://github.com/weibocom/motan/tree/master/motan-extension/filter-extension/filter-opentracing)
 - [ ] hprose:
-  - [x] [Java](https://github.com/opentracing-contrib/java-hprose)...almost, wait for release.
+  - [x] [Java](https://github.com/opentracing-contrib/java-hprose)
+
+# Badges
+
+Once you instrument your code or project to be enabled for OpenTracing, you can add OpenTracing badge or versioned badge to your project repo.
+
+- Use OpenTracing badge
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![OpenTracing Badge](https://img.shields.io/badge/OpenTracing-enabled-blue.svg)](http://opentracing.io)
+
+`[![OpenTracing Badge](https://img.shields.io/badge/OpenTracing-enabled-blue.svg)](http://opentracing.io)`
+
+- Use OpenTracing versioned badges
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)
+
+`[![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)`
+
 
 # Conference Speaking Opportunities
 

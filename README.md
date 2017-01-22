@@ -40,19 +40,14 @@ The following are all on the OpenTracing instrumentation short-list:
 
 # Badges
 
-Once you instrument your code or project to be enabled for OpenTracing, you can add OpenTracing badge or versioned badge to your project repo.
+Once you add OpenTracing support for an open-source project, please include an appropriate OpenTracing badge in said project's README.md, website, or similar.
 
-- Use OpenTracing badge
+You may either use...
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![OpenTracing Badge](https://img.shields.io/badge/OpenTracing-enabled-blue.svg)](http://opentracing.io)
-
-`[![OpenTracing Badge](https://img.shields.io/badge/OpenTracing-enabled-blue.svg)](http://opentracing.io)`
-
-- Use OpenTracing versioned badges
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)
-
-`[![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)`
+Badge Flavor | Markdown Snippet | Demo
+---------- | ---------------- | ------------
+Generic | `[![OpenTracing Badge](https://img.shields.io/badge/OpenTracing-enabled-blue.svg)](http://opentracing.io)` | [![OpenTracing Badge](https://img.shields.io/badge/OpenTracing-enabled-blue.svg)](http://opentracing.io)
+OT v1.0 | `[![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)` | [![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)
 
 
 # Conference Speaking Opportunities

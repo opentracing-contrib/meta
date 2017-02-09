@@ -1,21 +1,18 @@
-# Code
+# OpenTracing Contributions
+
+## New contributions
+
+OpenTracing needs your help to proliferate. We’ve already had contributors instrument OSS projects, build tracing systems, and work on the API. If you are interested in getting involved, please drop us a note at [hello@opentracing.com](mailto:hello@opentracing.com) or say hello on [Gitter](https://gitter.im/opentracing/public) and we will work with you to come up with a useful proposal.
+
+### Starting guides
+We have prepared for you step by step guides which should help you to start contributing:
+ * [java](guide_java.md)
 
 ## Existing contributions
 
 Many (but not all) contributed OpenTracing instrumentation can be found under the [the OpenTracing-contrib github organization](https://github.com/opentracing-contrib).
 
 Other contributions are included directly/implicitly in the codebase being instrumented, or sometimes in a contrib or ecosystem for said instrumented project.
-
-### Incomplete list of third-party contributions
-
-This is by no means an exhaustive list, but what follows is an incomplete list of third-party OpenTracing integrations.
-
-- [GRPC](https://github.com/grpc-ecosystem/grpc-opentracing), hosted within their [grpc-ecosystem](https://github.com/grpc-ecosystem) github organization
-- [Express middleware](https://github.com/Clever/tracing-middleware), contributed by [Clever](https://github.com/Clever)
-
-## New contributions
-
-OpenTracing needs your help to proliferate. We’ve already had contributors instrument OSS projects, build tracing systems, and work on the API. If you are interested in getting involved, please drop us a note at [hello@opentracing.com](mailto:hello@opentracing.com) or say hello on [Gitter](https://gitter.im/opentracing/public) and we will work with you to come up with a useful proposal.
 
 The following are all on the OpenTracing instrumentation short-list:
 
@@ -49,6 +46,13 @@ Badge Flavor | Markdown Snippet | Demo
 Generic | `[![OpenTracing Badge](https://img.shields.io/badge/OpenTracing-enabled-blue.svg)](http://opentracing.io)` | [![OpenTracing Badge](https://img.shields.io/badge/OpenTracing-enabled-blue.svg)](http://opentracing.io)
 OT v1.0 | `[![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)` | [![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)
 
+
+### Incomplete list of third-party contributions
+
+This is by no means an exhaustive list, but what follows is an incomplete list of third-party OpenTracing integrations.
+
+- [GRPC](https://github.com/grpc-ecosystem/grpc-opentracing), hosted within their [grpc-ecosystem](https://github.com/grpc-ecosystem) github organization
+- [Express middleware](https://github.com/Clever/tracing-middleware), contributed by [Clever](https://github.com/Clever)
 
 # Conference Speaking Opportunities
 

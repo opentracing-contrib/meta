@@ -17,7 +17,9 @@ Other contributions are included directly/implicitly in the codebase being instr
 The following are all on the OpenTracing instrumentation short-list:
 
 - [ ] AWS client libs
+- [ ] Elasticsearch
 - [ ] express
+- [x] [Finagle](https://github.com/twitter/finagle/pull/520#issuecomment-249959538)... almost :confused: 
 - [x] [Flask](https://github.com/opentracing-contrib/python-flask)
 - [ ] gRPC:
   - [x] [Go](https://github.com/grpc-ecosystem/grpc-opentracing/tree/master/go/otgrpc) 
@@ -26,14 +28,16 @@ The following are all on the OpenTracing instrumentation short-list:
   - [ ] Ruby
   - [ ] Objective-C
   - [ ] C++
-- [ ] nginx
-- [ ] React JS
-- [ ] Elasticsearch
-- [x] [Finagle](https://github.com/twitter/finagle/pull/520#issuecomment-249959538)... almost :confused: 
-- [ ] MySQL / mariadb
-- [x] [motan](https://github.com/weibocom/motan/tree/master/motan-extension/filter-extension/filter-opentracing)
 - [ ] hprose:
-  - [x] [Java](https://github.com/opentracing-contrib/java-hprose)
+    - [x] [Java](https://github.com/opentracing-contrib/java-hprose)
+- [x] [JAX-RS](https://github.com/opentracing-contrib/java-jaxrs)
+- [x] [motan](https://github.com/weibocom/motan/tree/master/motan-extension/filter-extension/filter-opentracing)
+- [ ] MySQL / mariadb
+- [ ] nginx
+- [x] [Okhttp client](https://github.com/opentracing-contrib/java-okhttp)
+- [ ] React JS
+- [x] [Spring Web interceptor](https://github.com/opentracing-contrib/java-spring-web)
+- [x] [Java Web Servlet filter](https://github.com/opentracing-contrib/java-web-servlet-filter)
 
 # Badges
 

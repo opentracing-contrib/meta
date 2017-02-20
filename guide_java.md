@@ -108,7 +108,7 @@ Please submit this configuration in an individual pull request, to see that ever
 ## Release rights
 For a successful release several access rights are needed:
 
- 1. [Bintray](https://bintray.com/opentracing/maven/opentracing-java) - register and request access directly in the organization; ping @bensigelman on our [gitter](https://gitter.im/opentracing/public) channel to speed up the process
+ 1. [Bintray](https://bintray.com/opentracing/maven/opentracing-java) - register and request access directly in the organization; ping @bhs on our [gitter](https://gitter.im/opentracing/public) channel to speed up the process
  2. [Sonatype](https://issues.sonatype.org/browse/OSSRH-19982) - request access directly in the issue
 
 These need to be re-encrypted and added to `.travis.yml`.

@@ -19,6 +19,7 @@ The following are all on the OpenTracing instrumentation short-list:
 - [ ] AWS client libs
 - [ ] Elasticsearch
 - [ ] express
+- [x] [Feign](https://github.com/OpenFeign/feign-opentracing)
 - [x] [Finagle](https://github.com/twitter/finagle/pull/520#issuecomment-249959538)... almost :confused: 
 - [x] [Flask](https://github.com/opentracing-contrib/python-flask)
 - [ ] gRPC:

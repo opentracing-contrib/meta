@@ -34,7 +34,7 @@ The following are all on the OpenTracing instrumentation short-list:
 - [x] [JAX-RS](https://github.com/opentracing-contrib/java-jaxrs)
 - [x] [motan](https://github.com/weibocom/motan/tree/master/motan-extension/filter-extension/filter-opentracing)
 - [ ] MySQL / mariadb
-- [ ] nginx
+- [x] [nginx](https://github.com/opentracing-contrib/nginx-opentracing)
 - [x] [Okhttp client](https://github.com/opentracing-contrib/java-okhttp)
 - [ ] React JS
 - [x] [Spring Web interceptor](https://github.com/opentracing-contrib/java-spring-web)

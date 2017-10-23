@@ -18,7 +18,7 @@ The following are all on the OpenTracing instrumentation short-list:
 
 - [ ] AWS client libs
 - [ ] Elasticsearch
-- [ ] express
+- [x] [express](https://github.com/opentracing-contrib/javascript-express)
 - [x] [Feign](https://github.com/OpenFeign/feign-opentracing)
 - [x] [Finagle](https://github.com/twitter/finagle/pull/520#issuecomment-249959538)... almost :confused: 
 - [x] [Flask](https://github.com/opentracing-contrib/python-flask)
@@ -57,7 +57,6 @@ OT v1.0 | `[![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1
 This is by no means an exhaustive list, but what follows is an incomplete list of third-party OpenTracing integrations.
 
 - [GRPC](https://github.com/grpc-ecosystem/grpc-opentracing), hosted within their [grpc-ecosystem](https://github.com/grpc-ecosystem) github organization
-- [Express middleware](https://github.com/Clever/tracing-middleware), contributed by [Clever](https://github.com/Clever)
 
 # Conference Speaking Opportunities
 

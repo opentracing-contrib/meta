@@ -2,7 +2,7 @@
 
 ## New contributions
 
-OpenTracing needs your help to proliferate. We’ve already had contributors instrument OSS projects, build tracing systems, and work on the API. If you are interested in getting involved, please drop us a note at [hello@opentracing.com](mailto:hello@opentracing.com) or say hello on [Gitter](https://gitter.im/opentracing/public) and we will work with you to come up with a useful proposal.
+OpenTracing needs your help to proliferate. We’ve already had contributors instrument OSS projects, build tracing systems, and work on the API. If you are interested in getting involved, please drop us a note at [the mailing list](https://groups.google.com/forum/#!forum/opentracing) or say hello on [Gitter](https://gitter.im/opentracing/public) and we will work with you to come up with a useful proposal.
 
 ### Starting guides
 We have prepared for you step by step guides which should help you to start contributing:

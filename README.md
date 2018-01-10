@@ -24,8 +24,8 @@ The following are all on the OpenTracing instrumentation short-list:
 - [x] [Flask](https://github.com/opentracing-contrib/python-flask)
 - [ ] gRPC:
   - [x] [Go](https://github.com/grpc-ecosystem/grpc-opentracing/tree/master/go/otgrpc) 
-  - [x] [Java](https://github.com/grpc-ecosystem/grpc-opentracing/tree/master/java)
-  - [ ] Python
+  - [x] [Java](https://github.com/opentracing-contrib/java-grpc)
+  - [x] [Python](https://github.com/opentracing-contrib/python-grpc)
   - [ ] Ruby
   - [ ] Objective-C
   - [ ] C++

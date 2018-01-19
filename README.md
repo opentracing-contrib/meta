@@ -60,7 +60,7 @@ This is by no means an exhaustive list, but what follows is an incomplete list o
 
 # Conference Speaking Opportunities
 
-We like to spread the word about OpenTracing at conferences. We're always excited to collaborate with anyone who'd like to help out. If that sounds like you, please drop us a note at [hello@opentracing.com](mailto:hello@opentracing.com). Specifically we are looking for:
+We like to spread the word about OpenTracing at conferences. We're always excited to collaborate with anyone who'd like to help out. If that sounds like you, please drop us a note at [hello@opentracing.io](mailto:hello@opentracing.io). Specifically we are looking for:
 
 1. Co-presenting opportunities around OpenTracing, including workshops like the ones we've run at Kubecon/OSCON/etc
 2. Advice if you have spoken at these events or are involved with the committee

@@ -86,3 +86,8 @@ We are particularly interested in the following events:
 - Kubecon / CloudNativeCon
 - Developer Week
 - Cloud Foundry Summit
+
+## License
+
+[Apache 2.0 License](./LICENSE).
+

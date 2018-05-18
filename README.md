@@ -23,7 +23,7 @@ The following are all on the OpenTracing instrumentation short-list:
 - [x] [Finagle](https://github.com/twitter/finagle/pull/520#issuecomment-249959538)... almost :confused: 
 - [x] [Flask](https://github.com/opentracing-contrib/python-flask)
 - [ ] gRPC:
-  - [x] [Go](https://github.com/grpc-ecosystem/grpc-opentracing/tree/master/go/otgrpc) 
+  - [x] [Go](https://github.com/opentracing-contrib/go-grpc) 
   - [x] [Java](https://github.com/opentracing-contrib/java-grpc)
   - [x] [Python](https://github.com/opentracing-contrib/python-grpc)
   - [ ] Ruby

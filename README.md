@@ -18,6 +18,7 @@ The following are all on the OpenTracing instrumentation short-list:
 
 - [ ] AWS client libs
 - [ ] Elasticsearch
+- [x] [Koa](https://github.com/teambition/koa-opentracing)
 - [x] [express](https://github.com/opentracing-contrib/javascript-express)
 - [x] [Feign](https://github.com/OpenFeign/feign-opentracing)
 - [x] [Finagle](https://github.com/twitter/finagle/pull/520#issuecomment-249959538)... almost :confused: 

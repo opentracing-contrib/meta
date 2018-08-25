@@ -155,7 +155,7 @@ The following are known OpenTracing-compatible projects. Create a PR for any pro
 * [java-api-extensions](https://github.com/opentracing-contrib/java-api-extensions) - OpenTracing API extensions
 * [java-cdi](https://github.com/opentracing-contrib/java-cdi) - Java EE CDI
 * [java-spring-tracer-configuration](https://github.com/opentracing-contrib/java-spring-tracer-configuration) - Spring Boot auto-configuration
-* [java-tracerresolver](https://github.com/opentracing-contrib/java-tracerresolver) - Spring Boot resolver
+* [java-tracerresolver](https://github.com/opentracing-contrib/java-tracerresolver) - Tracer resolver
 
 ## [JavaScript](https://github.com/opentracing/opentracing-javascript)
 

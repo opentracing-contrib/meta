@@ -219,9 +219,13 @@ The following are known OpenTracing-compatible projects. Create a PR for any pro
 ## [Ruby](https://github.com/opentracing/opentracing-ruby)
 
 **Tracers**
+* [jaeger-client-ruby](https://github.com/salemove/jaeger-client-ruby) - Jaeger
 * [lightstep-tracer-ruby](https://github.com/lightstep/lightstep-tracer-ruby) - LightStep
+* [test-ruby-opentracing](https://github.com/salemove/test-ruby-opentracing) - In memory tracer for testing
+* [zipkin-ruby-opentracing](https://github.com/salemove/zipkin-ruby-opentracing) - Zipkin
 
 **Instrumentation**
+* [ruby-activerecord-opentracing](https://github.com/salemove/ruby-activerecord-opentracing) - ActiveRecord
 * [ruby-faraday-tracer](https://github.com/opentracing-contrib/ruby-faraday-tracer) - Faraday
 * [ruby-rack-tracer](https://github.com/opentracing-contrib/ruby-rack-tracer) - Rack
 * [ruby-sensor](https://github.com/instana/ruby-sensor) - Instana

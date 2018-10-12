@@ -130,7 +130,7 @@ The following are known OpenTracing-compatible projects. Create a PR for any pro
 * [java-okhttp](https://github.com/opentracing-contrib/java-okhttp) - OkHttp
 * [java-p6spy](https://github.com/opentracing-contrib/java-p6spy) - P6Spy
 * [java-rabbitmq-client](https://github.com/opentracing-contrib/java-rabbitmq-client) - RabbitMQ client
-* [java-redis-client](https://github.com/opentracing-contrib/java-redis-client) - Redit client
+* [java-redis-client](https://github.com/opentracing-contrib/java-redis-client) - Redis client
 * [java-rxjava](https://github.com/opentracing-contrib/java-rxjava) - RxJava
 * [java-solr-client](https://github.com/opentracing-contrib/java-solr-client) - Solr client
 * [java-span-reporter](https://github.com/opentracing-contrib/java-span-reporter) - Logging adapter

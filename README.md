@@ -4,6 +4,10 @@
 
 OpenTracing needs your help to proliferate. We’ve already had contributors instrument OSS projects, build tracing systems, and work on the API. If you are interested in getting involved, please drop us a note at [the mailing list](https://groups.google.com/forum/#!forum/opentracing) or say hello on [Gitter](https://gitter.im/opentracing/public) and we will work with you to come up with a useful proposal.
 
+## OpenTracing Registry
+
+We maintain a searchable registry of instrumentation, tracers, and other addins at [the OpenTracing Registry](https://opentracing.io/registry). If you have a new project that you would like to be added there, [instructions are at this link](https://opentracing.io/get-involved/register/)
+
 ### Starting guides
 We have prepared for you step by step guides which should help you to start contributing:
  * [java](guide_java.md)

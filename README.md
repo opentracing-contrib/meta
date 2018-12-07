@@ -146,6 +146,7 @@ The following are known OpenTracing-compatible projects. Create a PR for any pro
 * [opentracing-jdbc](https://github.com/lucidsoftware/opentracing-jdbc) - JDBC
 * [opentracing-metrics](https://github.com/opentracing-contrib/java-metrics) - Micrometer and Prometheus metrics
 * [opentracing-playframework](https://github.com/lucidsoftware/opentracing-playframework) - Play framework
+* [opentracing-sqs-java](https://github.com/zalando-incubator/opentracing-sqs-java) - Amazon SQS
 * [perfevents](https://github.com/opentracing-contrib/perfevents/java) - Linux perfevents
 * [scala-akka](https://github.com/opentracing-contrib/scala-akka) - Scala Akka
 * [scala-concurrent](https://github.com/opentracing-contrib/scala-concurrent) - scala.concurrent

@@ -177,6 +177,7 @@ The following are known OpenTracing-compatible projects. Create a PR for any pro
 * [javascript-promise](https://github.com/opentracing-contrib/javascript-tracedpromise) - Promise
 * [koa-opentracing](https://github.com/teambition/koa-opentracing) - Koa
 * [opentracing-auto](https://github.com/RisingStack/opentracing-auto) - Node.js and common libraries
+* [axios-opentracing](https://github.com/fapspirit/axios-opentracing) - Axios
 
 **Other Projects**
 
@@ -298,4 +299,3 @@ We are particularly interested in the following events:
 ## License
 
 [Apache 2.0 License](./LICENSE).
-
